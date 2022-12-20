@@ -1,4 +1,3 @@
-
 <div align="center">
   <img width="80%" height="400px" src="https://ultimez.com/blog/wp-content/uploads/2016/09/gif-animation.gif"/>
 </div>
