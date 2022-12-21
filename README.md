@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Rakesh Kumar Yadav</h1>
-<h3 align="center">Full Stack Web Developer from Mumbai, India</h3>
+<h3 align="left">Full Stack Web Developer from Mumbai, India</h3>
 <br/>
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=white&background=FFFFFF00&width=700&height=51&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
