@@ -38,8 +38,9 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakeshrakeshyadav&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakeshrakeshyadav&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakeshrakeshyadav&theme=solarized_dark&utcOffset=8">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshrakeshyadav&theme=radical" alt="rakesh" height="250px" width="50%" />	
-</p>
+<img align="center" src="https://github-readme-streak-stats.demolab.com/?user=rakeshrakeshyadav&theme=radical" alt="rakesh" height="250px" width="50%" />	
+
+  </p>
  <br/>
   <br/>
     <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
